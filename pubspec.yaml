@@ -1,7 +1,7 @@
 name: numeric_editing_controller
-description: A new Flutter package project.
+description: This package is for getting Numeric value in editing controller used in place of amount , tax , discount text field.
 version: 0.0.1
-homepage:
+homepage: https://github.com/pradeep14598/numeric_editing-controller
 
 environment:
   sdk: '>=2.19.6 <3.0.0'
